@@ -30,4 +30,4 @@ A Simple Example
 
 Links
 -----
-*Websit: http://www.runoob.com/python/python-chinese-encoding.html
+* Websit: http://www.runoob.com/python/python-chinese-encoding.html
