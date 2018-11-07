@@ -21,3 +21,8 @@ A Simple Example
 	    print 'False'
         
 .. code-block:: text
+
+
+	He=llo, Python!
+	Auswer
+	True
