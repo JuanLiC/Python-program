@@ -11,7 +11,7 @@ A Simple Example
   #!/usr/bin/python
   # -*- coding: UTF-8 -*-
 
-    print "He=llo, Python!";
+    print "Hello, Python!";
 
     if True:
 	    print 'Auswer'
@@ -23,6 +23,6 @@ A Simple Example
 .. code-block:: text
 
 
-	He=llo, Python!
+	Hello, Python!
 	Auswer
 	True
